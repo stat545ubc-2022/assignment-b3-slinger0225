@@ -2,7 +2,7 @@
 
 ### Check this out!
 
-[Explore Vancouver Trees](https://slinger25.shinyapps.io/explore_van_trees/)
+[Explore Vancouver Trees - shinyapps.io](https://slinger25.shinyapps.io/explore_van_trees/)
 
 ![Running screenshot](/images/screenshot.png)
 
