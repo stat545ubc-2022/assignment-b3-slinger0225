@@ -4,11 +4,11 @@
 
 [Explore Vancouver Trees](https://slinger25.shinyapps.io/explore_van_trees/)
 
-![Running screenshot](/Users/lingershen/UBC/STAT545/assignment-b3-slinger0225/images/screenshot.png)
+![Running screenshot](/images/screenshot.png)
 
 ​                                                            **Map**
 
-![screenshot_data_explorer](/Users/lingershen/UBC/STAT545/assignment-b3-slinger0225/images/screenshot_data_explorer.png)
+![screenshot_data_explorer](/images/screenshot_data_explorer.png)
 
 ​                                                    **Data Explorer**
 
