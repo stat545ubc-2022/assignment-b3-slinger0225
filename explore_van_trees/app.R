@@ -63,6 +63,7 @@ ui <- navbarPage(paste0("Explore Vancouver Trees", emoji("deciduous_tree")), id=
                                         width = 330, height = "auto",
 
                                         h2("Trees Explorer"),
+                                        h4("Change the marker's color/size by:"),
                                         ## Feature 4: Add parameters to the map, so that user can control which variable controls the circle's color and size in the map.
                                         selectInput("color", "Color", color_vars, selected = "genus_name"),
                                         selectInput("size", "Size", size_vars, selected = "diameter")

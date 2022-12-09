@@ -12,13 +12,15 @@
 
 ​                                                    **Data Explorer**
 
-**Explore Vancouver trees** is a interactive shiny app, which allows the user to explore *vancouver trees* dataset, and analyze the relationship between tree's genus, geo-location, size (height and diameter), year planted, etc.
+### Purpose
 
-There are two tabs in the app.
+**Explore Vancouver trees** is a interactive shiny app, which allows the users to explore *vancouver trees* dataset, and discover the relationship between multiple variables of the dataset both interactively and intuitively.
 
-The first tab is **Map**, which enables the user find the relationship between geo-location and other variable at first glance. And user can control which variable controls the circle's color and size in the map.
+To realize this purpose, we design two tabs:
 
-The second tab is **Data Explorer**, where user could sort, search, filter the table in a very convenient way. To filter the table, user can not only search for multiple categorical entries simultaneously, but also select the range of the numerical data.
+- The first tab is **Map**, where users can interactively change which variable controls the marker's color and size in the map, to intuitively see the relationship between multiple variables at first glance. 
+
+- The second tab is **Data Explorer**, where users could sort, search, filter the table in a very convenient way. In this way, users could probably dig deeper into the relationship that they discover in the **Map** tab. To filter the table, user can not only search for multiple categorical entries simultaneously, but also select the range of the numerical data.
 
 ## About the data
 
